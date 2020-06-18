@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+secret*.txt
+*oauth
+client_secrets.json
+*.png
